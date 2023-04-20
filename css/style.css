@@ -1,0 +1,24 @@
+	/* CSS para emojis */
+    .emoji {
+        height: 2em;
+        width: 2em;
+        vertical-align: middle;
+        display: inline-block;
+        position: relative;
+        top: -0.05em;
+    }
+
+    /* CSS para links */
+    .links {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-top: 2em;
+    }
+
+    .links a {
+        margin: 0.5em;
+        text-decoration: none;
+        color: black;
+    }
