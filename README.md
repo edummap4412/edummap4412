@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edummap4412&show_icons=true&theme=merko)
 
-<h1>Eu sou Eduardo, Bem vindo ao meu GitHub</h1>
+<h1>Eu sou Eduardo e Bem vindo ao meu GitHub!</h1>
 <p>Tecnologias do meu dia a dia:</p>  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40"  title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
