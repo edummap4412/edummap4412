@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edummap4412&show_icons=true&theme=merko)
 <div style="display: inline_block"><br>
-  <h1>Eu sou Eduardo e Bem vindo ao meu GitHub!</h1>
+  <h1>Seja Bem Vindo ao meu GitHub!</h1>
   <p>Tecnologias do meu dia a dia:</p>
   <img align="center" height="30" width="40"  title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40"  title="Django"  src="img/django.png">
